@@ -1,0 +1,5 @@
+public class Kosta{
+	public static void main(String[] args) {
+		System.out.println("덤벼라 GIT아")
+	}
+}
