@@ -1,6 +1,6 @@
 
 public class Kosta{
 	public static void main(String[] args) {
-		System.out.println("죽 어 라 G I T");
+		System.out.println("뿌 시 자 G I T");
 	}
 }
