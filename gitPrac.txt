@@ -4,7 +4,7 @@ public class Kosta{
 		if (true) {
 			System.out.println("뿌 시 자 G I T");
 		} else if {
-			System.out.println("박종우");
+			System.out.println("박종우2");
 		}
 		else { 
 			System.out.println("못뿌시면 취업 망");
