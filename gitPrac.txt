@@ -3,8 +3,12 @@ public class Kosta{
 	public static void main(String[] args) {
 		if (true) {
 			System.out.println("뿌 시 자 G I T");
-		} else{ 
+		} else if {
+			System.out.println("박종우");
+		}
+		else { 
 			System.out.println("못뿌시면 취업 망");
 		} 
+			
 	}
 }
