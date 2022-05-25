@@ -12,3 +12,8 @@ public class Kosta{
 		System.out.println("not null 사랑해.. 내가 아는 유일한 깃 옷깃..")	
 	}
 }
+
+public class Genius{
+	String jason = "쩐승현";
+	String princess = "박종주";
+}
