@@ -5,9 +5,10 @@ public class Kosta{
 		} else { 
 			System.out.println("못뿌시면 취업 망");
 		} 
-		System.out.println("not null 사랑해.. 내가 아는 유일한 깃 옷깃..")
-		
-
+		System.out.println("not null 사랑해.. 내가 아는 유일한 깃 옷깃..");
+		Genius genius = new Genius();
+		String jason = genius.jason;	
+		System.out.println(jason);
 	}
 }
 
