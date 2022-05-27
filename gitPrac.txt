@@ -9,8 +9,10 @@ public class Kosta{
 		Genius genius = new Genius();
 		String jason = genius.jason;
 		String princess = genius.princess;
-		String luvu = genius.luvu
-		System.out.println(luvu+princess+"From"+jason);
+
+		String luvu = genius.luvu;
+		System.out.println(luvu+" "+princess+" from "+jason);
+
 	}
 }
 
