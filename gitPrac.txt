@@ -7,14 +7,16 @@ public class Kosta{
 		} 
 		System.out.println("not null 사랑해.. 내가 아는 유일한 깃 옷깃..");
 		Genius genius = new Genius();
-		String jason = genius.jason;	
-		System.out.println(jason);
+		String jason = genius.jason;
+		String princess = genius.princess;
+		String luvu = genius.luv;
+		System.out.println(luv+princess+"from"+jason);
 	}
 }
 
 class Genius{
 	String jason = "쩐승현";
 	String princess = "박종주";
-	String lovu = "NOT NULL 사랑해";
+	String luvu = "NOT NULL 사랑해";
 
 }
